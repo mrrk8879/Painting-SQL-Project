@@ -2,6 +2,9 @@
 ## **Project Overview**
 This project involves querying and analyzing a dataset containing information about paintings, artists, museums, and other related entities. The goal was to extract valuable insights and perform complex data analysis using PostgreSQL. The dataset consists of 8 tables, with a total of over 147,000 records, containing information on artworks, their sizes, prices, museums, and other attributes. A set of 22 unique problem statements was formulated to retrieve meaningful insights from the data.
 
+## **Datasets Link:-** 
+https://drive.google.com/drive/folders/1duhC57EytOV8H8Rg-cD36jX7GMOa5S2Z?usp=sharing
+
 ## **Table of Contents**
 
 1. Project Overview
@@ -138,4 +141,4 @@ This project involves querying and analyzing a dataset containing information ab
 
 This project demonstrated my skills in database management, SQL querying, and data analysis to generate actionable insights from large datasets. Let me know if you have any questions about the queries or the analysis!
 
-## **Datasets Link:-** https://drive.google.com/drive/folders/1duhC57EytOV8H8Rg-cD36jX7GMOa5S2Z?usp=sharing
+
