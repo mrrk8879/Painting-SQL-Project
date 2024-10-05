@@ -114,14 +114,26 @@ This project involves querying and analyzing a dataset containing information ab
 
 ## **Results**
 
-Analyzed over 147,000 records and successfully solved 22 complex queries using SQL.
-Identified key insights, such as the most popular museums and artists, pricing discrepancies, and the most popular painting styles.
-Improved the quality of data through duplicate removal and validation of museum information.
-Future Enhancements
-Automating data validation steps before querying the dataset.
-Adding visualizations of the insights gained through the SQL queries.
-Expanding the dataset to include more detailed artist information, such as biographical details and influences.
-How to Use
-Clone this repository to your local machine.
-Import the provided dataset into your PostgreSQL database.
-Execute the provided SQL queries to reproduce the analysis.
+1. Analyzed over 147,000 records and successfully solved 22 complex queries using SQL.
+
+2. Identified key insights, such as the most popular museums and artists, pricing discrepancies, and the most popular painting styles.
+
+3. Improved the quality of data through duplicate removal and validation of museum information.
+
+## **Future Enhancements**
+
+1. Automating data validation steps before querying the dataset.
+
+2. Adding visualizations of the insights gained through the SQL queries.
+
+3. Expanding the dataset to include more detailed artist information, such as biographical details and influences.
+
+## **How to Use**
+
+1. Clone this repository to your local machine.
+
+2. Import the provided dataset into your PostgreSQL database.
+
+3. Execute the provided SQL queries to reproduce the analysis.
+
+This project demonstrated my skills in database management, SQL querying, and data analysis to generate actionable insights from large datasets. Let me know if you have any questions about the queries or the analysis!
