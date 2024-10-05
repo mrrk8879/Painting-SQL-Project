@@ -18,7 +18,7 @@ This project involves querying and analyzing a dataset containing information ab
 
 7. Future Enhancements
 
-8.How to Use
+8. How to Use
 
 ## **Dataset Description**
 
